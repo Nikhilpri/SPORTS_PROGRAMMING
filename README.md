@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 ## Greedy
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+## Math
+|  |
+| ------- |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 <!---LeetCode Topics End-->
