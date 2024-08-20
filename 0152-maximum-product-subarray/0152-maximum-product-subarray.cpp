@@ -1,24 +1,16 @@
 class Solution {
 public:
-    int maxProduct(vector<int>& nums) {
-        int n = nums.size();
-
-        // Initialize variables for tracking the current maximum and minimum products
-        double curr_max = nums[0];
-        double curr_min = nums[0];
-        double ans = nums[0];
-
-        for (int i = 1; i < n; i++) {
-            if (nums[i] < 0) {
-                swap(curr_max, curr_min);
-            }
-
-            curr_max = max((double)nums[i], curr_max * nums[i]);
-            curr_min = min((double)nums[i], curr_min * nums[i]);
-
-            ans = max(ans, curr_max);
+    long long maxProduct(vector<int>& nums) {
+        int n=nums.size();
+        vector<vector<double>>dp(n,vector<double>(2,0));
+        dp[0][0]=1;
+        dp[0][1]=nums[0];
+        double ans=nums[0];
+        for(int i=1;i<n;i++){
+            dp[i][0]=min({(double)nums[i],dp[i-1][0]*nums[i],dp[i-1][1]*nums[i]});
+            dp[i][1]=max({(double)nums[i],dp[i-1][0]*nums[i],dp[i-1][1]*nums[i]});
+            ans=max(ans,dp[i][1]);
         }
-
-        return (int)ans;
+        return ans;
     }
 };
