@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
