@@ -1,26 +1,21 @@
 class Solution {
 public:
-    int numDecodings(string s) {
-        int n = s.size();
-        if (n == 0 || s[0] == '0') return 0;  // No valid encoding for strings starting with '0'
+    int solve(string &s, int i, vector<int> &dp) {
+        if (i == s.size()) return 1;
+        if (s[i] == '0') return 0;
+        if (dp[i] != -1) return dp[i];
 
-        vector<int> dp(n + 1, 0);
-        dp[0] = 1;  // Base case: empty string
-        dp[1] = (s[0] != '0') ? 1 : 0;  // Single character decode
-        
-        for (int i = 2; i <= n; i++) {
-            // Check the single digit possibility
-            if (s[i - 1] != '0') {
-                dp[i] = dp[i - 1];
-            }
-
-            // Check the two-digit possibility
-            int twoDigit = stoi(s.substr(i - 2, 2));
-            if (twoDigit >= 10 && twoDigit <= 26) {
-                dp[i] += dp[i - 2];
-            }
+        int res = solve(s, i + 1, dp);
+        if (i + 1 < s.size() && (s[i] == '1' || (s[i] == '2' && s[i + 1] <= '6'))) {
+            res += solve(s, i + 2, dp);
         }
 
-        return dp[n];
+        return dp[i] = res;
+    }
+
+    int numDecodings(string s) {
+        int n = s.size();
+        vector<int> dp(n, -1);
+        return solve(s, 0, dp);
     }
 };
