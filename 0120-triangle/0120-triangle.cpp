@@ -12,7 +12,7 @@ private:
         for(int i=n-1;i>=0;i--)
         {
             int first=0, second=0;
-            for(int j=i;j>=0;j--)
+            for(int j=0;j<=i;j++)
             {
                 first = triangle[i][j] + dp[i+1][j];
                 second = triangle[i][j] + dp[i+1][j+1];
