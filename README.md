@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
