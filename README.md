@@ -74,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
