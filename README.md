@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3519-find-the-number-of-winning-players) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 ## Matrix
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Counting
 |  |
 | ------- |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -151,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
