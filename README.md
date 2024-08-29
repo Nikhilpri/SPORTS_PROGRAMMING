@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Dynamic Programming
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
