@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 ## Math
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
