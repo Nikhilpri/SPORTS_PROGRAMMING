@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0377-combination-sum-iv) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
