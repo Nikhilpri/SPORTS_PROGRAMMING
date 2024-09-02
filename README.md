@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
@@ -190,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
