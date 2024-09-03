@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Ordered Set
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
