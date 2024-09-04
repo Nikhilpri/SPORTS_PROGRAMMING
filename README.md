@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 ## Math
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -221,9 +224,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
