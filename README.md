@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 ## Math
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Backtracking
 |  |
