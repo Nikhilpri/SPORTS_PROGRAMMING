@@ -2,7 +2,7 @@ class Solution {
 public:
     bool dfs(vector<vector<int>>& graph,vector<bool>&vis,vector<bool>&sol,int i){
         vis[i]=true;
-        sol[i]=true;
+
         for(auto it:graph[i]){
             if(vis[it]==false){
                 if(dfs(graph,vis,sol,it))return true;
@@ -15,7 +15,7 @@ public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n=graph.size();
         vector<bool>vis(n,false);
-        vector<bool>sol(n,false);
+        vector<bool>sol(n,true);
         for(int i=0;i<n;i++){
             if(vis[i]==false){
             dfs(graph,vis,sol,i);
