@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0906-walking-robot-simulation](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0906-walking-robot-simulation) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [3519-find-the-number-of-winning-players](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3519-find-the-number-of-winning-players) |
 ## String
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Stack
 |  |
