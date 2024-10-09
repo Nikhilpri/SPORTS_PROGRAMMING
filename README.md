@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
