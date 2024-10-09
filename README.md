@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0130-surrounded-regions) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
