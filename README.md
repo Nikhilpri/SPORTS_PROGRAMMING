@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Stack
