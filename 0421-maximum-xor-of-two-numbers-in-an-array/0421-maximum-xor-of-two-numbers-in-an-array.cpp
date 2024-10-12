@@ -44,6 +44,7 @@ public:
                 } else if (node->iscon(bt[i])) {
                     node = node->get(bt[i]); 
                 } else {
+                    ans=0;
                     break;
                 }
                
