@@ -46,9 +46,7 @@ public:
                 } else {
                     break;
                 }
-                if (node == nullptr) {
-                    break;
-                }
+               
             }
             return ans;
         }
