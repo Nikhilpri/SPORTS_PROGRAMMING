@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2032-largest-odd-number-in-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
+| [2032-largest-odd-number-in-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
 |  |
