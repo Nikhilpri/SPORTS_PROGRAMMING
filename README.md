@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0906-walking-robot-simulation) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0812-rotate-string) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [3519-find-the-number-of-winning-players](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/3519-find-the-number-of-winning-players) |
 ## Prefix Sum
 |  |
@@ -386,9 +390,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
