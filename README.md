@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
