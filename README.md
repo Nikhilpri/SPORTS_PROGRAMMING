@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
