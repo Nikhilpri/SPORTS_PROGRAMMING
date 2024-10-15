@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Heap (Priority Queue)
 |  |
