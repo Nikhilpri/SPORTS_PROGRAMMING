@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
