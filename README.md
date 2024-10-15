@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0812-rotate-string) |
