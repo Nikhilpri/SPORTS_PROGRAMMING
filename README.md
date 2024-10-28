@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
