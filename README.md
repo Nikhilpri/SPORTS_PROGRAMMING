@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
@@ -431,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
