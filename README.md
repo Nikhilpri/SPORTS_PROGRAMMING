@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
