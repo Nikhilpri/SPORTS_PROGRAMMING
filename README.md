@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0907-koko-eating-bananas) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
