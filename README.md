@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0130-surrounded-regions) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
