@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikhilpri/MY_LEETCODE_SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Tree
 |  |
